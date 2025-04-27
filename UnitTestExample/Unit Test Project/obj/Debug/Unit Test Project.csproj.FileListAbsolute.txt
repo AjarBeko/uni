@@ -1,0 +1,8 @@
+C:\Users\bekoo\OneDrive\Dokumentumok\sdfhdhf\UnitTestExample\Unit Test Project\obj\Debug\Unit Test Project.csproj.AssemblyReference.cache
+C:\Users\bekoo\OneDrive\Dokumentumok\sdfhdhf\UnitTestExample\Unit Test Project\obj\Debug\Unit_Test_Project.Properties.Resources.resources
+C:\Users\bekoo\OneDrive\Dokumentumok\sdfhdhf\UnitTestExample\Unit Test Project\obj\Debug\Unit Test Project.csproj.GenerateResource.cache
+C:\Users\bekoo\OneDrive\Dokumentumok\sdfhdhf\UnitTestExample\Unit Test Project\obj\Debug\Unit Test Project.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\OneDrive\Dokumentumok\sdfhdhf\UnitTestExample\Unit Test Project\obj\Debug\Unit Test Project.gentestingplatformentrypointinputcache.cache
+C:\Users\bekoo\OneDrive\Dokumentumok\sdfhdhf\UnitTestExample\Unit Test Project\obj\Debug\Unit Test Project.genautoregisteredextensionsinputcache.cache
+C:\Users\bekoo\OneDrive\Dokumentumok\sdfhdhf\UnitTestExample\Unit Test Project\obj\Debug\AutoRegisteredExtensions.cs
+C:\Users\bekoo\OneDrive\Dokumentumok\sdfhdhf\UnitTestExample\Unit Test Project\obj\Debug\TestPlatformEntryPoint.cs

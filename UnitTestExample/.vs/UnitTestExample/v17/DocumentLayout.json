@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0506D894-EB78-4EC1-ACE1-E8AC395E8CB6}|Unit Test Project\\Unit Test Project.csproj|c:\\users\\bekoo\\onedrive\\dokumentumok\\sdfhdhf\\unittestexample\\unit test project\\accountcontrollertestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0506D894-EB78-4EC1-ACE1-E8AC395E8CB6}|Unit Test Project\\Unit Test Project.csproj|solutionrelative:unit test project\\accountcontrollertestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FBDBB6-FEBA-421B-A647-484ED380E500}|UnitTestExample\\UnitTestExample.csproj|C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\unittestexample\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FBDBB6-FEBA-421B-A647-484ED380E500}|UnitTestExample\\UnitTestExample.csproj|solutionrelative:unittestexample\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0506D894-EB78-4EC1-ACE1-E8AC395E8CB6}|Unit Test Project\\Unit Test Project.csproj|C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\unit test project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0506D894-EB78-4EC1-ACE1-E8AC395E8CB6}|Unit Test Project\\Unit Test Project.csproj|solutionrelative:unit test project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FBDBB6-FEBA-421B-A647-484ED380E500}|UnitTestExample\\UnitTestExample.csproj|C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\unittestexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1FBDBB6-FEBA-421B-A647-484ED380E500}|UnitTestExample\\UnitTestExample.csproj|solutionrelative:unittestexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\UnitTestExample\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "UnitTestExample\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\UnitTestExample\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "UnitTestExample\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:12:27.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountControllerTestFixture.cs",
+              "DocumentMoniker": "C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\Unit Test Project\\AccountControllerTestFixture.cs",
+              "RelativeDocumentMoniker": "Unit Test Project\\AccountControllerTestFixture.cs",
+              "ToolTip": "C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\Unit Test Project\\AccountControllerTestFixture.cs",
+              "RelativeToolTip": "Unit Test Project\\AccountControllerTestFixture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:52:34.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\Unit Test Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Unit Test Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\Unit Test Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Unit Test Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:48:58.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\UnitTestExample\\Form1.cs",
+              "RelativeDocumentMoniker": "UnitTestExample\\Form1.cs",
+              "ToolTip": "C:\\Users\\bekoo\\OneDrive\\Dokumentumok\\sdfhdhf\\UnitTestExample\\UnitTestExample\\Form1.cs [Design]",
+              "RelativeToolTip": "UnitTestExample\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:48:29.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
